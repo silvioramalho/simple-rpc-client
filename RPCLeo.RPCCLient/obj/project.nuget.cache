@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvX2LRZHWwd+MxFHnSATj78ik+5KXGye5OcKClrMhINlK/rwGQFhpMhOs6pP9UoeezlcextmEY2pTv4w8lVDlw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\RPCLeo\\RPCLeo.RPCCLient\\RPCLeo.RPCCLient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silvio.ramalho\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\silvio.ramalho\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\silvio.ramalho\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\silvio.ramalho\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\silvio.ramalho\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\silvio.ramalho\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
