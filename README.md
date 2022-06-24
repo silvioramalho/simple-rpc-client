@@ -1,1 +1,1 @@
-# simnple-rpc-client
+# simple-rpc-client
